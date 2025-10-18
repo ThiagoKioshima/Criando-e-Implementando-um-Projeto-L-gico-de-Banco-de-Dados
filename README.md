@@ -32,3 +32,9 @@ Quantos pedidos foram feitos por cada cliente?
 Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
+
+## Ferramenta utilizada
+MySQL Workbench
+
+## Diagrama MER de Banco de Dados E-COMMERCE
+![img]()
