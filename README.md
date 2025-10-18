@@ -37,4 +37,4 @@ Relação de nomes dos fornecedores e nomes dos produtos;
 MySQL Workbench
 
 ## Diagrama MER de Banco de Dados E-COMMERCE
-![img]()
+![img](https://github.com/ThiagoKioshima/Criando-e-Implementando-um-Projeto-L-gico-de-Banco-de-Dados/blob/main/Diagrama%20MER.png)
